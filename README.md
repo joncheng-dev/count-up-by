@@ -15,7 +15,7 @@ Expected Output:
 user end number: 50;
 user multiplier: 2;
 
-Test: "It should take two numbers, and return the second number multiplied by 2."
+Test: "It should take two numbers, and return the second number multiplied by 2 (user multiplier added to itself)."
 Code:
 const userEndNumber = 50;
 const userMultiplier = 2;
