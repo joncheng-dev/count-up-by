@@ -1,7 +1,6 @@
 // Business Logic
-function countUpBy(endNumber) {
-  console.log(endNumber);
-  return endNumber;
+function countUpBy(endNumber, multiplier) {
+  return endNumber, multiplier;
 }
 
 // User Interface Logic
