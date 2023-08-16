@@ -14,3 +14,13 @@ countUpBy(userEndNumber, userMultiplier);
 Expected Output:
 user end number: 50;
 user multiplier: 2;
+
+Test: "It should take two numbers, and return the second number multiplied by 2."
+Code:
+const userEndNumber = 50;
+const userMultiplier = 2;
+countUpBy(userEndNumber, userMultiplier);
+Expected Output:
+user end number: 50;
+user multiplier: 2;
+output: 4;
