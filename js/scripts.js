@@ -1,6 +1,6 @@
 // Business Logic
 function countUpBy(endNumber, multiplier) {
-  return "user end number =" + endNumber + " user multiplier =" + multiplier;
+  return (multiplier += multiplier);
 }
 
 // User Interface Logic
